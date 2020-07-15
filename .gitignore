@@ -1,0 +1,6 @@
+_pycache_
+build
+dist
+store.db
+desktopApp.spec
+.vscode
